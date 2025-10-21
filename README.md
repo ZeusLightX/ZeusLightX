@@ -8,15 +8,16 @@ Designed to help citizens report and find lost/stolen items in real time.
 ### Features (MVP)
 
 - Authentication flow with FirebaseAuth  
-- Register, login, logout, session persistence  
-- Validation, error handling, “forgot password”  
-- Progress feedback with loading indicators  
-- Welcome screen with branching into login/register  
+- Register, login, logout, session persistence
+- Welcome screen with branching into login/register
+- Validation, error handling, “forgot password”
+- Progress feedback with loading indicators
+- Profile screen with exp/leveling system
+- Maps integration (Google Maps SDK)  
 
 ### Future Work (Next Milestones)
 
-- Maps integration (Google Maps SDK)  
-- Nearby alerts with filtering by category (Mobile, ID, Car, Pet)  
+- Nearby alerts with filtering by category (Person, Pet, Vehicle, Other)  
 - Push notifications to all users  
 
 ### Tech Stack
