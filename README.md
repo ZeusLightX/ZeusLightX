@@ -6,6 +6,7 @@ Ubika is a real-time Android application that connects people to report, locate,
 Built with a focus on usability, community trust, and efficient geolocation, it allows users to post alerts, view nearby reports on a map, and communicate through categorized alerts — all in one sleek and responsive interface.
 
 🌟 Features
+
 🔐 Authentication
 
 Firebase Authentication for secure login and registration.
