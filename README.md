@@ -1,6 +1,6 @@
-## Ubikalo – Real-time Lost & Found App
+## Ubika – Real-time Lost & Found App
 
-**Ubikalo Project Roadmap:** [View here](https://github.com/users/ZeusLightX/projects/1)
+**Ubika Project Roadmap:** [View here](https://github.com/users/ZeusLightX/projects/1)
 
 Private freelance project (in development). Mobile app built in **Java (Android Studio)** with **Firebase backend**.  
 Designed to help citizens report and find lost/stolen items in real time.
